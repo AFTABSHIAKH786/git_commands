@@ -1,5 +1,8 @@
 hello how are you
+<<<<<<< HEAD
 
 this is the changes done using the feature-1 branch
 
 this change should be reverted
+=======
+>>>>>>> parent of 52e584e (feature-1)
